@@ -1,213 +1,98 @@
 [
-    {
-      
-      "title": "Vrienden voor het leven",
-      "author": "Maeve Binchy",
-      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/5/3/6/6/1001004011806635.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 10,
-        "displayValue": "10.00"
-      }
-    },
-    {
-      
-      "title": "Deception point",
-      "author": "Dan Brown",
-       "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/8/8/9/8/1001004006878988.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 9.99,
-        "displayValue": "9.99"
-      }
-    },
-    {
-      
-      "title": "Magic staff",
-      "author": "Terry Brooks",
-    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/2/2/5/2/9200000002212522.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 17.5,
-        "displayValue": "17.50"
-      }
-    },
-    {
-      
-      "title": "Bloodfire Quest",
-      "author": "Terry Brooks",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/7/0/0/7/9200000009027007.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 24.5,
-        "displayValue": "24.50"
-      }
-    },
-    {
-      
-      "title": "A Week in Winter",
-      "author": "Maeve Binchy",
-   "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/6/2/8/0/9200000008070826.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 11.99,
-        "displayValue": "11.99"
-      }
-    },
-    {
-      "title": "Blue Curacao",
-      "author": "Linda van Rijn",
+  {
+    "title": "Blue Curacao",
+    "author": "Linda van Rijn",
     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/0/9/4/2/9200000010732490.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 48.99,
-        "displayValue": "48.99"
-      }
-    },
-    {
-      
-      "title": "Safe Haven",
-      "author": "Nicholas Sparks",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/0/5/2/3/9200000010683250.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 33.8,
-        "displayValue": "33.80"
-      }
-    },
-    {
-      
-      "title": "De wereld volgens Garp",
-      "author": "John Irving",
-   "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/6/3/6/7/1001004005997636.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 19.9,
-        "displayValue": "19.90"
-      }
-    },
-    {
-     
-      "title": "Winter Chalet",
-      "author": "Linda van Rijn",
-      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/6/6/6/7/9200000002547666.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 15,
-        "displayValue": "15.00"
-      }
-    },
-    {
-      
-      "title": "De Vliegeraar",
-      "author": "Khaled Hosseini",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/6/3/5/1/1001004010981536.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 6.99,
-        "displayValue": "6.99"
-      }
-    },
-    {
-      
-      "title": "De delta deceptie",
-      "author": "Dan Brown",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/5/0/5/5/1001004006225505.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 14.95,
-        "displayValue": "14.95"
-      }
-    },
-    {
-      
-      "title": "Hou je mond!",
-      "author": "Sophie Kinsella",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/8/3/1/6/1001004002056138.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 10,
-        "displayValue": "10.00"
-      }
-    },
-    {
-      
-      "title": "In een mens",
-      "author": "John Irving",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/0/7/8/7/9200000000037870.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 19.9,
-        "displayValue": "19.90"
-      }
-    },
-    {
-      
-      "title": "The lucky one",
-      "author": "Nicholas Sparks",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/7/0/3/7/1001004011797307.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 9.8,
-        "displayValue": "9.80"
-      }
-    },
-    {
-      
-      "title": "Best of me",
-      "author": "Nicholas Sparks",
-      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/4/6/2/8/9200000001208264.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 13.8,
-        "displayValue": "13.80"
-      }
-    },
-    {
-      
-      "title": "Hotel aan zee",
-      "author": "Maeve Binchy",
-      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/7/2/1/0/9200000009850127.jpg",
-      "price": {
-        "currency": "EUR",
-        "value": 14.99,
-        "displayValue": "14.99"
-      }
-    },
-    {
-     
-      "title": "Inferno",
-      "author": "Dan Brown",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/8/9/9/9/9200000010839998.jpg",
-      "price": 17.49
-    },
-    {
-      
-      "title": "In het hart",
-      "author": "David Baldacci",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/2/6/2/1/1001004005971262.jpg",
-      "price": 5
-    },
-    {
-      
-      "title": "The Hit",
-      "author": "David Baldacci",
-      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/6/5/2/3/9200000009123256.jpg",
-      "price": 21.99
-    },
-    {
-      
-      "title": "De Tennisparty",
-      "author": "Sophie Kinsella",
-     "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/3/7/6/4/9200000009984673.jpg",
-      "price": 18.5
-    },
-    {
-      
-      "title": "In One Person",
-      "author": "John Irving",
-      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/3/4/5/9/9200000009409543.jpg",
-      "price": 25
-    }
-
-  ]
+    "price": 48.99
+  },
+  {
+    "title": "Safe Haven",
+    "author": "Nicholas Sparks",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/0/5/2/3/9200000010683250.jpg",
+    "price": 33.8
+  },
+  {
+    "title": "De wereld volgens Garp",
+    "author": "John Irving",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/6/3/6/7/1001004005997636.jpg",
+    "price": 19.9
+  },
+  {
+    "title": "Winter Chalet",
+    "author": "Linda van Rijn",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/6/6/6/7/9200000002547666.jpg",
+    "price": 15
+  },
+  {
+    "title": "De Vliegeraar",
+    "author": "Khaled Hosseini",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/6/3/5/1/1001004010981536.jpg",
+    "price": 6.99
+  },
+  {
+    "title": "De delta deceptie",
+    "author": "Dan Brown",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/5/0/5/5/1001004006225505.jpg",
+    "price": 14.95
+  },
+  {
+    "title": "Hou je mond!",
+    "author": "Sophie Kinsella",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/8/3/1/6/1001004002056138.jpg",
+    "price": 10
+  },
+  {
+    "title": "In een mens",
+    "author": "John Irving",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/0/7/8/7/9200000000037870.jpg",
+    "price": 19.9
+  },
+  {
+    "title": "The lucky one",
+    "author": "Nicholas Sparks",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/7/0/3/7/1001004011797307.jpg",
+    "price": 9.8
+  },
+  {
+    "title": "Best of me",
+    "author": "Nicholas Sparks",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/4/6/2/8/9200000001208264.jpg",
+    "price": 13.8
+  },
+  {
+    "title": "Hotel aan zee",
+    "author": "Maeve Binchy",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/7/2/1/0/9200000009850127.jpg",
+    "price": 14.99
+  },
+  {
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/8/9/9/9/9200000010839998.jpg",
+    "price": 17.49
+  },
+  {
+    "title": "In het hart",
+    "author": "David Baldacci",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/2/6/2/1/1001004005971262.jpg",
+    "price": 5
+  },
+  {
+    "title": "The Hit",
+    "author": "David Baldacci",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/6/5/2/3/9200000009123256.jpg",
+    "price": 21.99
+  },
+  {
+    "title": "De Tennisparty",
+    "author": "Sophie Kinsella",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/3/7/6/4/9200000009984673.jpg",
+    "price": 18.5
+  },
+  {
+    "title": "In One Person",
+    "author": "John Irving",
+    "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/3/4/5/9/9200000009409543.jpg",
+    "price": 25
+  }
+]
